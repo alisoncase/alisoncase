@@ -11,7 +11,7 @@ This [portfolio](https://github.com/alisoncase/portfolio) showcases my work in c
 
 ## 🛠️ Skills and Technologies
 - **Languages**: Python, JavaScript, HTML/CSS
-- **Libraries**: Leaflet, D3.js, React
+- **Libraries**: Leaflet, D3.js, React, ArcGIS Maps SDK for JavaScript
 - **Databases**: PostgreSQL, PostGIS
 - **Design Tools**: Adobe Illustrator, Mapbox Studio
 - **Version Control**: GitHub
