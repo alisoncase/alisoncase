@@ -7,7 +7,7 @@ This [portfolio](https://github.com/alisoncase/portfolio) showcases my work in c
 ## 🌟 Featured Projects
 - **[Country Roadmaps Interactive Map](https://github.com/alisoncase/roadmaps)**: An interactive map with coordinated graphs and dynamic data visualization, allowing users to explore and analyze data across low- and middle-income countries, built with Leaflet and D3.js.
 - **[Everglades National Park Wading Bird Sightings App](https://github.com/alisoncase/ever_wading_birds)**: A web app for submitting and tracking bird sightings in Everglades National Park using React, Supabase, and the ArcGIS Maps SDK for JavaScript (@arcgis/core).
-- **[Public Health Outcomes and Risks App](https://github.com/alisoncase/2024_publicHealthFactors)**: An app visualizing public health outcomes and risks in the United States built with with D3.js.
+- **[Public Health Outcomes and Risks App](https://github.com/alisoncase/2024_publicHealthFactors)**: An app visualizing public health outcomes and risks in the United States built with D3.js.
 
 ## 🛠️ Skills and Technologies
 - **Languages**: Python, JavaScript, HTML/CSS
